@@ -10,3 +10,5 @@ hello world! 444   修改修改 hot-fix
 hello world! 6666 
 hello world! 444    修改master
 hello world! 6666
+hello world! hot-fix   hot-fix
+hello world! 6666
